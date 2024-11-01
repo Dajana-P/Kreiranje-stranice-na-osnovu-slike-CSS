@@ -1,4 +1,4 @@
-Kreiranje stranice na osnovu zadatih slika
+# Kreiranje stranice na osnovu zadatih slika
 
 Domaći rad za kodiranje HTML i CSS fajla prema slikama:
 ![reference 1](https://github.com/user-attachments/assets/d2e1ab4e-1b98-4233-bff4-1920cca1e1c2)
